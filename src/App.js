@@ -2,10 +2,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App bg-gradient-to-t from-slate-50 via-zinc-50 to-zinc-100 ">
+    <div className="App bg-gradient-to-t from-zinc-100  to-zinc-100 ">
 
       <div  style={{ height: '700%' }}>
-        <div className='bg-gradient-to-b from-slate-50 via-zinc-50 to-zinc-100'>
+        <div className='py-40 bg-gradient-to-b from-slate-50 via-zinc-50 to-zinc-100'>
           <h1 className='mt-60 mb-40 font-rale'>
             <span className='text-gradient'>w</span>
             <span className='text-gradient'>e</span>

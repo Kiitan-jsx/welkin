@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App bg-gradient-to-t from-zinc-100  to-zinc-100 ">
 
-      <div  style={{ height: '700%' }}>
+      <div >
         <div className='py-40 bg-gradient-to-b from-slate-50 via-zinc-50 to-zinc-100'>
           <h1 className='mt-60 mb-40 font-rale'>
             <span className='text-gradient'>w</span>
@@ -15,6 +15,13 @@ function App() {
             <span className='text-gradient'>n</span>
             <span className='text-gradient'></span>
             <span className='text-gradientlogo'>®</span> 
+          </h1>
+        </div>
+      </div>
+
+      <div >
+        <div className='py-10 bg-gradient-to-r from-sky-300 via-sky-400 to-sky-500'>
+          <h1 className='mt-40  font-medium mb-40 font-rale  highlight'>w
           </h1>
         </div>
       </div>

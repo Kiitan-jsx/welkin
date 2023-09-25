@@ -22,12 +22,7 @@
 }
 
 .highlight {
-    font-size: 96px;
-    font-weight: 600;
-    background: linear-gradient(to bottom, #ffffff, #e5e7eb, #e4e4e7); /* Change colors as needed */
-    -webkit-background-clip: text; /* For WebKit (Safari, Chrome) */
-    background-clip: text;
-    color: transparent; /* Hide the original text */
+    font-size: 150px;
 }
 
 .text-gradient1 {

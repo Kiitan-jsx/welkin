@@ -21,7 +21,7 @@ function App() {
 
       
         <div className='py-40 bg-gradient-to-r from-sky-500 to-sky-600'>
-          <h1 className='mt-40 font-medium mb-40 text-white text-9xl font-rale'>w
+          <h1 className='mt-40 font-medium mb-40 text-white highlight font-rale'>w
           </h1>
         </div>
       

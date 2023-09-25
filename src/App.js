@@ -25,6 +25,31 @@ function App() {
           </h1>
         </div>
       
+        <div className='py-40 bg-gradient-to-r from-sky-500 to-sky-600'>
+          <h1 className='mt-40 font-medium mb-40 text-white highlight font-rale'>e
+          </h1>
+        </div>
+      
+        <div className='py-40 bg-gradient-to-r from-sky-500 to-sky-600'>
+          <h1 className='mt-40 font-medium mb-40 text-white highlight font-rale'>l
+          </h1>
+        </div>
+      
+        <div className='py-40 bg-gradient-to-r from-sky-500 to-sky-600'>
+          <h1 className='mt-40 font-medium mb-40 text-white highlight font-rale'>k
+          </h1>
+        </div>
+      
+        <div className='py-40 bg-gradient-to-r from-sky-500 to-sky-600'>
+          <h1 className='mt-40 font-medium mb-40 text-white highlight font-rale'>i
+          </h1>
+        </div>
+      
+        <div className='py-40 bg-gradient-to-r from-sky-500 to-sky-600'>
+          <h1 className='mt-40 font-medium mb-40 text-white highlight font-rale'>n
+          </h1>
+        </div>
+      
 
 
 

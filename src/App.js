@@ -19,12 +19,12 @@ function App() {
         </div>
       </div>
 
-      <div >
-        <div className='py-10 bg-gradient-to-r from-sky-300 via-sky-400 to-sky-500'>
-          <h1 className='mt-40  font-medium mb-40 font-rale  highlight'>w
+      
+        <div className='py-10 bg-gradient-to-r from-sky-400 to-sky-500'>
+          <h1 className='mt-40 font-medium mb-40 text-white text-9xl'>w
           </h1>
         </div>
-      </div>
+      
 
 
 

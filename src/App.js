@@ -17,6 +17,18 @@ function App() {
             <span className='text-gradientlogo'>®</span> 
           </h1>
         </div>
+        <div className='py-40 bg-gradient-to-r from-sky-500 to-sky-600'>
+          <h1 className='mt-60 mb-40 font-rale text-white'>
+            <span className='text-gradient'>w</span>
+            <span className='text-gradient'>e</span>
+            <span className='text-gradient'>l</span>
+            <span className='text-gradient'>k</span>
+            <span className='text-gradient'>i</span>
+            <span className='text-gradient'>n</span>
+            <span className='text-gradient'></span>
+            <span className='text-gradientlogo'>®</span> 
+          </h1>
+        </div>
       </div>
 
       

@@ -7,18 +7,11 @@
 .text-gradient {
     font-size: 96px;
     font-weight: 600;
-    background: linear-gradient(to right, #87CEEB, #00BFFF, #1E90FF); /* Change colors as needed */
-    -webkit-background-clip: text; /* For WebKit (Safari, Chrome) */
-    background-clip: text;
-    color: transparent; /* Hide the original text */
 }
 .text-gradientlogo {
     font-size: 30px;
-    font-weight: 600;
-    background: linear-gradient(to right, #87CEEB, #00BFFF, #1E90FF); /* Change colors as needed */
-    -webkit-background-clip: text; /* For WebKit (Safari, Chrome) */
-    background-clip: text;
-    color: transparent; /* Hide the original text */
+    font-weight: 500;
+    
 }
 
 .highlight {
